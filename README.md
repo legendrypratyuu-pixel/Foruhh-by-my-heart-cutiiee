@@ -1,0 +1,3 @@
+💖 Our Love Scrapbook 💖 This is a fun and interactive love scrapbook where you can add notes, memories, timeline events, and even background music. Everything saves automatically in your browser!
+
+Features 💌 Add and delete love notes 📸 View a gallery of memories ⏳ Track your journey with a timeline 🎶 Play background music 🌈 Switch between romantic, light, and dark themes 📤 Export and 📥 Import your scrapbook data How to Use Open index.html in your browser. Add your notes, photos, and timeline events. Switch themes using the dropdown at the top. Use the export/import buttons to save or load your scrapbook. Tech Stack HTML, CSS JavaScript Framer Motion (for animations) Author Made with 💖 by [Your Name or Username
